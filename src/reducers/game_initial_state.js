@@ -6,4 +6,5 @@ export default {
   cards: [],
   displayedCards: [],
   activeCards: [],
+  timeout: false,
 };

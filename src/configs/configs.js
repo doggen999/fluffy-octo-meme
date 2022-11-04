@@ -1,0 +1,1 @@
+export const numberOfMatchesRequired = 3;
