@@ -8,7 +8,8 @@
     "build:dev": "webpack --mode development",
     "generateComponent": "node src/cli/generateComponent",
     "start": "webpack server --open --mode development",
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "repository": {
     "type": "git",
