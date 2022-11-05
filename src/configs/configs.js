@@ -1,1 +1,1 @@
-export const numberOfMatchesRequired = 3;
+export const NUMBER_OF_MATCHES_REQUIRED = 2;
