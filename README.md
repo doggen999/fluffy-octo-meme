@@ -1,4 +1,6 @@
-# dev-environment
-Basic dev environment with Webpack and Babel 
+# Color memory
+Basic Color memory written with React using `useRedux` for state management
 ## tl;dr
 `npm i && npm start`
+## test
+`npm test` or `npm test:watch`
