@@ -1,0 +1,5 @@
+.gameboard {
+    display: grid;
+    grid-template: repeat(4, 1fr) / repeat(4, 1fr);
+    gap: 6px;
+}

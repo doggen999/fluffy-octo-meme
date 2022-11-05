@@ -1,1 +1,2 @@
 export const NUMBER_OF_MATCHES_REQUIRED = 2;
+export const TIMEOUT_LENGTH_MS = 2000
